@@ -4,7 +4,7 @@
         "name": "Zuneify",
         "version": "1.0.0",
 		"licence": "GPLv3",
-		"updater": "https://raw.githubusercontent.com/PercyTheB/Zuneify_Flashified/edit/main/Zuneify.json"
+		"updater": "https:\/\/raw.githubusercontent.com\/PercyTheB\/Zuneify_Flashified\/main\/Zuneify.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/912743911280234519\/964915622595162162\/Untitled17_20220416104936.png?width=324&height=702",
