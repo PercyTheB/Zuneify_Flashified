@@ -4,10 +4,10 @@
         "name": "Zuneify",
         "version": "1.0.0",
 		"licence": "GPLv3",
-		"updater": "https:\/\/raw.githubusercontent.com\/snappyapple632\/Zuneify\/main\/Zuneify.json"
+		"updater": "https://raw.githubusercontent.com/PercyTheB/Zuneify_Flashified/edit/main/Zuneify.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/882021156255858778\/887869761806037022\/zune_mobile_comp.png",
+        "url": "https:\/\/media.discordapp.net\/attachments\/912743911280234519\/964915622595162162\/Untitled17_20220416104936.png?width=324&height=702",
         "overlay_alpha": 0
     },
     "fonts": {
